@@ -1,8 +1,5 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
-
-/.vs
+﻿/.vs
 /node_modules
+/package-lock.json
 /dist
-*.json
+/tsconfig.node.tsbuildinfo
